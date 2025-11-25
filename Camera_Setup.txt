@@ -1,0 +1,8 @@
+# For IP CCTV cameras:
+# cap = cv2.VideoCapture("rtsp://username:password@camera_ip:554/stream")
+
+# For multiple cameras:
+# cameras = [
+#     "rtsp://cam1_ip/stream",  # Entrance 1
+#     "rtsp://cam2_ip/stream",  # Entrance 2
+# ]
